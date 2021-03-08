@@ -1,0 +1,90 @@
+.app {
+  text-align: center;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/157/184/original/retro-movie-cinema-vector-background.jpg");
+  height: auto;
+  width: auto;
+
+}
+.app{
+  text-align: center;
+  
+  
+}
+.btn{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0 auto;
+     width: 100px; 
+}
+.listM{
+  display: inline-block;
+  margin: 40px 5px;
+
+}
+.Movie{
+  margin: 0px 10px;
+  
+  
+}
+.Movie:hover{
+  transform: scale(1.02);
+  transition: all 0.5s;
+}
+.mybtn{
+  height: 90px;
+}
+.btn-star{
+     margin: 0 44%;
+     width: 30%; 
+     text-align: center;
+}
+.star{
+ text-align: center;
+}
+h1{
+  color: rgb(7, 22, 160);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.mb-3{
+  margin: 20px 10px;
+  width: 300px;
+  
+}
+#cardimg{
+  height: 400px;
+  width: 285px;
+  border-radius: 10px;
+  
+  
+}
+
+.card{
+ display: flex;
+
+}
+#btnAdd{
+  width: 300px;
+  margin-left: 40px;
+}
+#navMo{
+background-image : url("https://static.vecteezy.com/system/resources/previews/000/157/184/original/retro-movie-cinema-vector-background.jpg");}
+#retour{
+  text-decoration: none;
+
+}
+#btn-retour{
+  margin: 15px;
+  width: 100px;
+
+}
+
+.titles{
+  text-align: center;
+}
+.titles p{
+  font-size: 50px;
+  font-family: Verdana;
+}
+
